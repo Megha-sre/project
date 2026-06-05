@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>DevOps Student Registration</title>
+    <title>DevOps saidemy Student Registration</title>
     <style>
         body {
             font-family: Arial, sans-serif;
